@@ -1,0 +1,6 @@
+Errores PL8:
+8A:porque usamos 4 discos si con 3 llegamos
+8B:calculo del MMTT con 3 discos no con 4
+
+Nota:9.5
+Nota Media:8.83
